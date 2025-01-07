@@ -48,10 +48,10 @@ export default async function Home({
 
                 <div style={{width: "50%", margin: "0 auto"}}>
                     <Image
-                        src="/h3.gif"
+                        src="/img.png"
                         alt="Logo"
-                        width={100}
-                        height={65}
+                        width={500}
+                        height={350}
                         style={{width: '100%', height: 'auto'}} // Explicitly set width and height here
                         priority
                     />

@@ -6,7 +6,7 @@ import React, { Suspense } from 'react';
 import Image from "next/image";
 
 export const metadata: Metadata = {
-    title: 'HEROES 3',
+    title: 'Ardu',
 };
 
 async function fetchData() {
